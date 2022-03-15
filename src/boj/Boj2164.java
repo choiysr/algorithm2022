@@ -3,6 +3,9 @@ package boj;
 
 import java.util.Scanner;
 
+/**
+ * collection을 사용하지 않고 풀기
+ */
 public class Boj2164 {
 
     private static boolean[] check;
